@@ -124,6 +124,7 @@ Please submit pull requests (or email rlarose (at) umich (dot) edu) with algorit
 * BV: Bernstein-Vazirani.
 * DJ: Deustch-Jozsa.
 * HS: Hidden shift.
+* QAOA: Quantum approximate optimization algorithm.
 * QAQC: Quantum-assisted quantum compiling.
 * QFT: Quantum Fourier Transform.
 * QPE: Quantum phase estimation.
